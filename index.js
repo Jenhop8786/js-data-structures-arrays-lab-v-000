@@ -1,5 +1,6 @@
 // Write your solution here!
+drivers = ["Milo", "Otis", "Garfield"]
 
 function() {
-  drivers = ["Milo", "Otis", "Garfield"]
+
 }
